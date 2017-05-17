@@ -1,0 +1,6 @@
+https://github.com/Theano/Theano/archive/master.zip
+https://github.com/Lasagne/Lasagne/archive/master.zip
+scikit_learn
+https://github.com/mithrial/nolearn/archive/master.zip
+https://github.com/mithrial/nolearn_utils/archive/master.zip
+pandas
